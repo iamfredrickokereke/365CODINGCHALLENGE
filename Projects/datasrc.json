@@ -1,1 +1,5 @@
-{"rain" : ["cold","hot"]}
+{
+  "stock" : ["unit being sold or purchased","available product"],
+  "SKU" : ["Stock keeping unit"],
+  "KPO" : ["Key performance officer"]
+} 
