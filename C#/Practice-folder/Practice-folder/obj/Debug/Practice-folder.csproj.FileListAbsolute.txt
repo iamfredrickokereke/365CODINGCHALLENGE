@@ -1,0 +1,7 @@
+C:\Users\SUMERU PC\source\repos\Practice-folder\Practice-folder\bin\Debug\Practice-folder.exe.config
+C:\Users\SUMERU PC\source\repos\Practice-folder\Practice-folder\bin\Debug\Practice-folder.exe
+C:\Users\SUMERU PC\source\repos\Practice-folder\Practice-folder\bin\Debug\Practice-folder.pdb
+C:\Users\SUMERU PC\source\repos\Practice-folder\Practice-folder\obj\Debug\Practice-folder.csprojAssemblyReference.cache
+C:\Users\SUMERU PC\source\repos\Practice-folder\Practice-folder\obj\Debug\Practice-folder.csproj.CoreCompileInputs.cache
+C:\Users\SUMERU PC\source\repos\Practice-folder\Practice-folder\obj\Debug\Practice-folder.exe
+C:\Users\SUMERU PC\source\repos\Practice-folder\Practice-folder\obj\Debug\Practice-folder.pdb

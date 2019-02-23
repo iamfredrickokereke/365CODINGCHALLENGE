@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\SUMERU PC\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe.config
 C:\Users\SUMERU PC\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe
 C:\Users\SUMERU PC\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.pdb
@@ -5,3 +6,12 @@ C:\Users\SUMERU PC\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstC
 C:\Users\SUMERU PC\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.csproj.CoreCompileInputs.cache
 C:\Users\SUMERU PC\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.exe
 C:\Users\SUMERU PC\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.pdb
+=======
+C:\Users\SUMERU PC\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe.config
+C:\Users\SUMERU PC\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe
+C:\Users\SUMERU PC\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.pdb
+C:\Users\SUMERU PC\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.csprojAssemblyReference.cache
+C:\Users\SUMERU PC\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\SUMERU PC\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.exe
+C:\Users\SUMERU PC\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.pdb
+>>>>>>> cb2cbc229b1ba86d91fbd28ef1732db6cff225f1
